@@ -1,0 +1,7 @@
+{% extends "index.html" %}
+{% block content %}
+<p>{{ object.candidate_first_name }}  {{ object.candidate_surname }}</p>
+<img src="{{object.candidate_image.url }}" style="heigth: 60px; width:70px" />
+<p>{{ object.candidate_goal }} </p>
+<p>{{ object.candidate_category }}</p>
+{% endblock %}

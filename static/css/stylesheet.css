@@ -1,0 +1,9 @@
+#slide div{position: absolute;
+	  z-index: 0;}
+#slide div.current{
+z-index: 2;
+}
+#slide div.previous{
+	z-index: 1;
+}
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EntSys/.idea/EntSys.iml" filepath="$PROJECT_DIR$/../EntSys/.idea/EntSys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LodgePortal/.idea/LodgePortal.iml" filepath="$PROJECT_DIR$/../LodgePortal/.idea/LodgePortal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mmedia471/.idea/Mmedia471.iml" filepath="$PROJECT_DIR$/../Mmedia471/.idea/Mmedia471.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/eVotingPortal.iml" filepath="$PROJECT_DIR$/.idea/eVotingPortal.iml" />
+    </modules>
+  </component>
+</project>
